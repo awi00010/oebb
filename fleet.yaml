@@ -22,7 +22,7 @@ helm:
   repo: https://github.com/awi00010/oebb
   # A custom release name to deploy the chart as. If not specified a release name
   # will be generated.
-  releaseName: nginx-test
+  releaseName: nginx-test2
   # The version of the chart or semver constraint of the chart to find. If a constraint
   # is specified it is evaluated each time git changes.
   #version: 0.1.0
